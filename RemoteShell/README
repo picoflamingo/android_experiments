@@ -1,0 +1,6 @@
+Check your local targets and update the project
+
+$ android list target
+$ android update project --subprojects -p ./ --target X
+
+where X is your preferred target
